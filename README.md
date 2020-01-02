@@ -19,6 +19,7 @@
 
     • To run the program
 
+        ◦ Go in the src directory
         ◦ Compile the program (with make)
         ◦ Run the executable (./scrabble)
         ◦ Press 0 to continue
@@ -27,4 +28,5 @@
         ◦ You are in the game
         ◦ Write a word to play or pass your turn
         ◦ Write the coordinates and the direction for the word you want to play
-
+        ◦ When you want to stop, you quit and save the game and play later at
+        the same game
